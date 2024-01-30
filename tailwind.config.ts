@@ -8,6 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
+        fontFamily: 
+        {
+            'poppins': ['poppins', 'sans-serif'],
+            'serif': ['Merriweather', 'serif'],
+        },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
