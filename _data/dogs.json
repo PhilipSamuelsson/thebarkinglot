@@ -1,0 +1,84 @@
+{
+    "dogs": [
+        {
+            "name": "Buddy",
+            "breed": "Golden Retriever",
+            "age": 2,
+            "gender": "Male",
+            "weight": 70,
+            "image": "https://images.unsplash.com/photo-1583160247711-2191776b4b91?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Luna",
+            "breed": "Labrador Retriever",
+            "age": 4,
+            "gender": "Female",
+            "weight": 65,
+            "image": "https://example.com/labrador_retriever.jpg"
+        },
+        {
+            "name": "Charlie",
+            "breed": "Beagle",
+            "age": 3,
+            "gender": "Male",
+            "weight": 30,
+            "image": "https://example.com/beagle.jpg"
+        },
+        {
+            "name": "Lola",
+            "breed": "French Bulldog",
+            "age": 1,
+            "gender": "Female",
+            "weight": 25,
+            "image": "https://example.com/french_bulldog.jpg"
+        },
+        {
+            "name": "Max",
+            "breed": "German Shepherd",
+            "age": 5,
+            "gender": "Male",
+            "weight": 80,
+            "image": "https://example.com/german_shepherd.jpg"
+        },
+        {
+            "name": "Willow",
+            "breed": "Mixed Breed",
+            "age": 4,
+            "gender": "Female",
+            "weight": 50,
+            "image": "https://example.com/mixed_breed.jpg"
+        },
+        {
+            "name": "Scout",
+            "breed": "Poodle",
+            "age": 6,
+            "gender": "Male",
+            "weight": 45,
+            "image": "https://example.com/poodlle.jpg"
+        },
+        {
+            "name": "Penny",
+            "breed": "Dachshund",
+            "age": 2,
+            "gender": "Female",
+            "weight": 15,
+            "image": "https://example.com/dachshund.jpg"
+        },
+        {
+            "name": "Cooper",
+            "breed": "Yorkshire Terrier",
+            "age": 3,
+            "gender": "Male",
+            "weight": 7,
+            "image": "https://example.com/yorkshire_terrier.jpg"
+        },
+        {
+            "name": "Bella",
+            "breed": "Chihuahua",
+            "age": 1,
+            "gender": "Female",
+            "weight": 5,
+            "image": "https://example.com/chihuahua.jpg"
+        }
+    ]
+}
